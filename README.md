@@ -93,7 +93,7 @@ If either condition is not met, the fan remains OFF.
 
 ## Installation Steps
 
-1. Clone this repository
+1. Clone this repository: https://github.com/harsadella/arduino-smart-fan-automation
 2. Open the project in Arduino IDE
 3. Install all required libraries
 4. Assemble the circuit according to the pin configuration
